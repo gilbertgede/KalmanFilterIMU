@@ -1,0 +1,8 @@
+This IMU code is an Extended Kalman Fitler. It is currently using simulated input; the next step is taking input from a microcontroller & its sensors. 
+
+
+References:
+Fiorenzani T., Manes C, Oriolo G., Peliti P.: Comparative Study of Unscented Kalman Filter and Extended Kalman Filter for Position/Attitude Estimation in Unmanned Aerial Vehicles, IASI-CNR, R. 08-08, 2008
+Sabatini, A.M. Quaternion-based extended Kalman filter for determining orientation by inertial and magnetic sensing. IEEE Transactions on Biomedical Engineering 53, 1346-1356 (2006).
+VectorNav Technologies, LLC. VN -100 User Manual. College Station, TX 77840 USA
+
